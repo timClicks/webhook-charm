@@ -1,0 +1,7 @@
+# ides, ...
+.vscode/
+.idea/
+
+# ops framework
+lib/ops-0.0.1.dist-info/
+lib/ops/

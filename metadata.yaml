@@ -1,0 +1,11 @@
+name: webhook
+summary: Easily run a command that responds to a webhook.
+description: |
+  The webhook charm makes it easy to set up a service that
+  runs when it is triggered by a webhook.
+maintainers:
+  - Tim McNamara <tsm@canonical.com>
+tags:
+  - examples
+series:
+  - bionic
